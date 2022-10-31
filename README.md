@@ -2,7 +2,7 @@
 
 Below are present the slides of the seminar  intitled *Salt Body Segmentation in Seismic Imaging using Semi-Supervised Learning* that I presented on October 20th 2022 in the Earth Science Department at University of Pisa.
 
-In the repository you can also find the notebooks I used for this project, some plots I used in the slides, and some pubblications useful for an introduction to the problem.
+In the repository you can also find the notebooks I used for this project, some plots that I added in the slides, and some pubblications useful for an introduction to the problem.
 
 ![Presentation_pages-to-jpg-0001](https://user-images.githubusercontent.com/62444785/196718850-4084b8bb-af07-4f19-bcad-85b0748997ec.jpg)
 ![Presentation_pages-to-jpg-0002](https://user-images.githubusercontent.com/62444785/196718861-c608767a-5cd3-405f-8744-ba713a755256.jpg)
