@@ -1,6 +1,6 @@
 # Salt-Body-Segmentation
-Salt Body Segmentation in Seismic Imaging using Semi-Supervised Learning
 
+These are the slides of the seminar  intitled *Salt Body Segmentation in Seismic Imaging using Semi-Supervised Learning* that I presented on October 20th 2022 in the Earth Science Department at University of Pisa.
 
 ![Presentation_pages-to-jpg-0001](https://user-images.githubusercontent.com/62444785/196718850-4084b8bb-af07-4f19-bcad-85b0748997ec.jpg)
 ![Presentation_pages-to-jpg-0002](https://user-images.githubusercontent.com/62444785/196718861-c608767a-5cd3-405f-8744-ba713a755256.jpg)
